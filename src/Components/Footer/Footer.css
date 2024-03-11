@@ -1,0 +1,60 @@
+.footer{
+    background-color: black;
+    color: azure;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.questions{
+    margin-left: 100px;
+}
+
+.contact{
+    text-decoration: underline;
+    cursor: pointer;
+    
+}
+
+.seconddiv{
+    display: flex;
+    margin-top: 20px;
+}
+
+ul {
+    list-style-type: none;
+    text-decoration: underline;
+    cursor: pointer;
+    
+}
+
+.options{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.languagediv{
+    margin-top: 30px;
+    margin-left: 100px;
+    
+    
+}
+
+.ButtonLanguage{
+    text-align: center;
+    border:1px solid white;
+    border-radius: 3px;
+    background-color: transparent;
+    width: 125px;
+    height: 30px;
+    color: white;
+    margin-right: 10px;
+}
+
+.enddiv{
+    color: white;
+    margin-top: 30px;
+    margin-left: 100px;
+
+}
